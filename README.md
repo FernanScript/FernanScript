@@ -1,4 +1,4 @@
-### Hi there 👋
+### Bienvenido 👋
 
 <!--
 **FernanScript/FernanScript** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# titulo 1
-<img src="https://www.gliffy.com/sites/default/files/image/2020-07/image-blog-aws-simple-shapes-1.jpg">
