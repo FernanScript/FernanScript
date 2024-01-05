@@ -3,7 +3,7 @@ Mi nombre es Fernando Trejos, Frontend Developer🧑🏾‍💻
 
 ## Conocimientos
 - Angular / Ionic
-- HTML / CSS / SASS / SCSS
+- HTML / CSS / SCSS
 - JavaScript
 - TypeScript
 - PHP
